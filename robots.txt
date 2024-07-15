@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://astmedu.github.io/sitemap
+Sitemap: https://astmedu.github.io/app/sitemap
+Sitemap: https://astmedu.github.io/assets/sitemap
+Sitemap: https://astmedu.github.io/css/sitemap
+Sitemap: https://astmedu.github.io/includes/sitemap
+Sitemap: https://astmedu.github.io/item/sitemap
+Sitemap: https://astmedu.github.io/src/sitemap
